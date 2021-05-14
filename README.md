@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam Li @samlee2015jp
-- 👀 I’m interested in AI, Block Chain, philosophy, history, reading books, making friends, travelling and so on.
+- 👀 I’m interested in AI, Block Chain, programming, philosophy, history, reading books, making friends, travelling and so on.
 - 🌱 I’m currently learning AI, Block Chain, English and so on.
 - 💞️ I’m looking to collaborate in a AI reaserch team
 - 📫 Please send me email: samlee2015jp@gmail.com, whenever you want to share or discuss with me.
